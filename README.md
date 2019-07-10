@@ -7,4 +7,4 @@ cd into project
 
 npm install 
 
-To start  node app. 
+To start run node app.js file. 
